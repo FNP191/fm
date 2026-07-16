@@ -1,0 +1,20 @@
+Nueva estructura FM
+
+Eliminar Copa Jose Nasazzi.
+A dejar como esta.
+B dejar como esta.
+C: Dejarla con 28 Equipos
+Formato: 4 Series de 7, dos rondas
+	 Los 4 Primeros de cada una pasan al Clausura
+	 Clausura: todos contra todos, 1 ronda
+	
+D: 14 Equipos 
+Formato: Todos contra todos, 2 rondas
+
+Divisional OFI:
+Series: Sur (Colonia, San José, Canelones y Montevideo)
+	Este (Maldonado, Lavalleja, Rocha, Treinta y Tres y Cerro Largo)
+	Centro (Flores, Florida, Durazno, Soriano y Rio Negro)
+	Norte (Paysandú, Salto, Artigas, Rivera, Tacuarembó)
+
+Se dividen en 4 series por región, cada serie se juega una liga con 16 (los que sean a lo largo de los años), a dos rondas, el campeón de cada una asciende a la divisional D.
